@@ -1,0 +1,17 @@
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\bin\Debug\netcoreapp2.1\GradeBook.Test.deps.json
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\bin\Debug\netcoreapp2.1\GradeBook.Test.runtimeconfig.json
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\bin\Debug\netcoreapp2.1\GradeBook.Test.runtimeconfig.dev.json
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\bin\Debug\netcoreapp2.1\GradeBook.Test.dll
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\bin\Debug\netcoreapp2.1\GradeBook.Test.pdb
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\bin\Debug\netcoreapp2.1\GradeBook.dll
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\bin\Debug\netcoreapp2.1\GradeBook.pdb
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\obj\Debug\netcoreapp2.1\GradeBook.Test.csprojAssemblyReference.cache
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\obj\Debug\netcoreapp2.1\GradeBook.Test.csproj.CoreCompileInputs.cache
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\obj\Debug\netcoreapp2.1\GradeBook.Test.AssemblyInfoInputs.cache
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\obj\Debug\netcoreapp2.1\GradeBook.Test.AssemblyInfo.cs
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\obj\Debug\netcoreapp2.1\GradeBook.Test.csproj.CopyComplete
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\obj\Debug\netcoreapp2.1\GradeBook.Test.dll
+C:\Users\spras\source\repos\GradeBook\GradeBook.Test\obj\Debug\netcoreapp2.1\GradeBook.Test.pdb
