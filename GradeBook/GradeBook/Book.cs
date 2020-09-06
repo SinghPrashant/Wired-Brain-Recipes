@@ -26,7 +26,8 @@ namespace GradeBook
         Statistics GetStats();
         string Name { get; }
         event GradeAddedDelegate GradeAdded;
-
+		//event GradeAddedDelegate GradeAdded;
+		//test comment;
 
     }
 
